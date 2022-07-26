@@ -33,3 +33,7 @@ _Sua vida fechada_
 _Em arquivos._
 
 ![Isso é uma imagem](https://www.jornalrepercussao.com.br/wp-content/uploads/2020/09/Arroz.jpg)
+
+# Colégio Edimar Pensamento Computacional 1-E
+
+-@LiziBugalski
