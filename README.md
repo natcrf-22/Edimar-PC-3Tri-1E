@@ -32,4 +32,4 @@ _Sua vida fechada_
 
 _Em arquivos._
 
-https://www.diariodoaco.com.br/noticia/0081817-elevacao-no-preco-do-arroz-deve-se-manter-ate-2021-afirma-dirigente
+https://images.app.goo.gl/MmZ1x459icUxnU9n6
