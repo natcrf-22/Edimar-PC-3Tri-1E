@@ -32,4 +32,4 @@ _Sua vida fechada_
 
 _Em arquivos._
 
-![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+![Isso é uma imagem](https://www.jornalrepercussao.com.br/wp-content/uploads/2020/09/Arroz.jpg)
