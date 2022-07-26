@@ -31,3 +31,5 @@ _Com seu salário de fome_
 _Sua vida fechada_
 
 _Em arquivos._
+
+https://www.diariodoaco.com.br/noticia/0081817-elevacao-no-preco-do-arroz-deve-se-manter-ate-2021-afirma-dirigente
