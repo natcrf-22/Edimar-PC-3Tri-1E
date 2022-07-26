@@ -32,4 +32,3 @@ _Sua vida fechada_
 
 _Em arquivos._
 
-https://images.app.goo.gl/MmZ1x459icUxnU9n6
