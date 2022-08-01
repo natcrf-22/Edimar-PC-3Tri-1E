@@ -2,8 +2,8 @@
 
 -Repositório criado para postagem de trabalhos e atividades da disciplina de Pensamento Computacional.
 #
-# Números
-- **16 22 39**
+# Números e Nome
+- **Larissa:16 Natasha:22 Luana:39**
 
 # Poema
    **Não Há Vagas**
