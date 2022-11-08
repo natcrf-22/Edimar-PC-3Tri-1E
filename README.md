@@ -5,34 +5,6 @@
 # Números e Nome
 - **Larissa:16 Natasha:22**
 
-# Poema
-   **Não Há Vagas**
-
- _O preço do feijão não cabe no poema_
-
- _O preço do arroz não cabe no poema_
-
-_Não cabem no poema o gás, a luz, o telefone_
-
-_A sonegação do leite_
-
-_Da carne_
-
-_Do açúcar_
-
-_Do pão_
-
-_O funcionário público_
-
-_Não cabe no poema_
-
-_Com seu salário de fome_
-
-_Sua vida fechada_
-
-_Em arquivos._
-
-![Isso é uma imagem](https://www.jornalrepercussao.com.br/wp-content/uploads/2020/09/Arroz.jpg)
 
 # Colégio Edimar Pensamento Computacional 1-E
 
