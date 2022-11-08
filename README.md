@@ -1,4 +1,4 @@
-# PensamentoComputacional-1E
+# PensamentoComputacional-1E-3Trimestre
 
 -Repositório criado para postagem de trabalhos e atividades da disciplina de Pensamento Computacional.
 #
