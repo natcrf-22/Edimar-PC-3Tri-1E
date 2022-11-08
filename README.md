@@ -3,7 +3,7 @@
 -Repositório criado para postagem de trabalhos e atividades da disciplina de Pensamento Computacional.
 #
 # Números e Nome
-- **Larissa:16 Natasha:22 Luana:39**
+- **Larissa:16 Natasha:22**
 
 # Poema
    **Não Há Vagas**
