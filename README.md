@@ -1,4 +1,4 @@
-# PensamentoComputacional-1E-3Trimestre
+# Edimar-PC-3Tri-1E
 
 -Repositório criado para postagem de trabalhos e atividades da disciplina de Pensamento Computacional.
 #
